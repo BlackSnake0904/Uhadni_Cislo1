@@ -1,1 +1,1 @@
-Zakladna hra uhandi cislo
+Zakladna hra uhadni cislo
