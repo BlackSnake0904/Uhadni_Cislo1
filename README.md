@@ -1,0 +1,1 @@
+Zakladna hra uhandi cislo
